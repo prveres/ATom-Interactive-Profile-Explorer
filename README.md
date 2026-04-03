@@ -8,9 +8,9 @@
 
 This interactive tool displays vertical profiles of molecular chlorine (Cl2) and related trace gases measured during the NASA Atmospheric Tomography (ATom) mission. Each marker on the map represents a vertical profile pair (ascent + descent), color-coded by Cl2 classification:
 
-- **Green**: Cl2 > 2 pptv -- evaporative degassing mechanism actively producing Cl2
-- - **Red**: Cl2 <= 2 pptv -- background/below detection limit
-  - - **Gray**: Insufficient data for classification
+- **Green**: Cl2 > 2 pptv 
+- - **Red**: Cl2 <= 2 pptv 
+  - - **Gray**: -- background/below detection limit 0.6 ppt (3 sigma) 
    
     - Clicking a marker shows the full vertical profile with Cl2, H2O, RH, potential temperature, and other trace gases.
    
@@ -18,7 +18,7 @@ This interactive tool displays vertical profiles of molecular chlorine (Cl2) and
    
     - Elevated daytime Cl2 (2-8 pptv) was observed in the remote marine free troposphere (2-7 km altitude) during ATom-3 and ATom-4. We propose a unified evaporative degassing mechanism: marine aerosol carrying pre-loaded halide reservoirs from MBL cycling is lofted into dry free-tropospheric air, triggering water loss, auto-acidification, and Cl2/BrCl release.
    
-    - This work is described in: **Veres, P. R., D. Jeong, J. A. Neuman, et al.** (in preparation), *Evaporative degassing of marine aerosol as a source of Cl2 in the remote free troposphere*, J. Geophys. Res. Atmos.
+    - This work is described in: **Veres, P. R., D. Jeong, J. A. Neuman, et al.** (in preparation), *Evaporative degassing of marine aerosol as a source of Cl2 in the remote free troposphere*
    
     - ## Data Sources and Citations
    
@@ -55,4 +55,6 @@ This interactive tool displays vertical profiles of molecular chlorine (Cl2) and
                    
                     - ## Contact
                    
-                    - Patrick R. Veres -- NOAA Chemical Sciences Laboratory -- pveres@ucar.edu
+                    - Patrick R. Veres -- NSF NCAR Research Aviation Facility --
+                    - https://www.airborne-science.com
+                    - pveres@ucar.edu
