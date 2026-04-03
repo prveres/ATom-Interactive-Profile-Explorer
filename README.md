@@ -9,8 +9,8 @@
 This interactive tool displays vertical profiles of molecular chlorine (Cl2) and related trace gases measured during the NASA Atmospheric Tomography (ATom) mission. Each marker on the map represents a vertical profile pair (ascent + descent), color-coded by Cl2 classification:
 
 - **Green**: Cl2 > 2 pptv 
-- - **Red**: Cl2 <= 2 pptv 
-  - - **Gray**: -- background/below detection limit 0.6 ppt (3 sigma) 
+- **Red**: Cl2 <= 2 pptv 
+  - **Gray**: -- background/below detection limit 0.6 ppt (3 sigma) 
    
     - Clicking a marker shows the full vertical profile with Cl2, H2O, RH, potential temperature, and other trace gases.
    
@@ -24,25 +24,25 @@ This interactive tool displays vertical profiles of molecular chlorine (Cl2) and
    
     - ### ATom Mission Data
    
-    - - **ATom Merge Files (v2)**: Wofsy, S. C., et al. (2021). ATom: Merged Atmospheric Chemistry, Trace Gases, and Aerosols, Version 2. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1925
+    - **ATom Merge Files (v2)**: Wofsy, S. C., et al. (2021). ATom: Merged Atmospheric Chemistry, Trace Gases, and Aerosols, Version 2. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1925
      
-    - - **ATom Mission Overview**: Thompson, C. R., et al. (2022). The NASA Atmospheric Tomography (ATom) Mission: Imaging the Chemistry of the Global Atmosphere. *Bull. Amer. Meteor. Soc.*, 103(3), E761-E790. https://doi.org/10.1175/BAMS-D-20-0315.1
+    - **ATom Mission Overview**: Thompson, C. R., et al. (2022). The NASA Atmospheric Tomography (ATom) Mission: Imaging the Chemistry of the Global Atmosphere. *Bull. Amer. Meteor. Soc.*, 103(3), E761-E790. https://doi.org/10.1175/BAMS-D-20-0315.1
        
     - ### Instrument Data
        
-    - - **Cl2 and BrCl (NOAA I-CIMS)**: Robinson, M. A., et al. (2022). An iodide-adduct chemical ionization mass spectrometer for the detection of atmospheric trace gases. *Atmos. Meas. Tech.*, 15, 4295-4313. https://doi.org/10.5194/amt-15-4295-2022
+    - **Cl2 and BrCl (NOAA I-CIMS)**: Robinson, M. A., et al. (2022). An iodide-adduct chemical ionization mass spectrometer for the detection of atmospheric trace gases. *Atmos. Meas. Tech.*, 15, 4295-4313. https://doi.org/10.5194/amt-15-4295-2022
          
-    - - **H2O / RH (DLH)**: Diskin, G. S., et al. (2002). Open-path airborne tunable diode laser hygrometer. *Diode Lasers and Applications in Atmospheric Sensing*, SPIE Proc., 4817, 196-204.
+    - **H2O / RH (DLH)**: Diskin, G. S., et al. (2002). Open-path airborne tunable diode laser hygrometer. *Diode Lasers and Applications in Atmospheric Sensing*, SPIE Proc., 4817, 196-204.
            
-    - - **Aerosol Composition (AMS)**: Schill, G. P., et al. (2020). Widespread biomass burning smoke throughout the remote troposphere. *Nat. Geosci.*, 13, 422-427. https://doi.org/10.1038/s41561-020-0586-1
+    - **Aerosol Composition (AMS)**: Schill, G. P., et al. (2020). Widespread biomass burning smoke throughout the remote troposphere. *Nat. Geosci.*, 13, 422-427. https://doi.org/10.1038/s41561-020-0586-1
              
-    - - **Single-Particle Composition (PALMS)**: Froyd, K. D., et al. (2019). A new method to quantify mineral dust and other aerosol species from aircraft platforms using single-particle mass spectrometry. *Atmos. Meas. Tech.*, 12, 6209-6239. https://doi.org/10.5194/amt-12-6209-2019
+    - **Single-Particle Composition (PALMS)**: Froyd, K. D., et al. (2019). A new method to quantify mineral dust and other aerosol species from aircraft platforms using single-particle mass spectrometry. *Atmos. Meas. Tech.*, 12, 6209-6239. https://doi.org/10.5194/amt-12-6209-2019
                
-    - - **Meteorological Data (MMS)**: Scott, S. G., et al. (1990). The Meteorological Measurement System on the NASA ER-2 Aircraft. *J. Atmos. Oceanic Technol.*, 7, 525-540.
+    - **Meteorological Data (MMS)**: Scott, S. G., et al. (1990). The Meteorological Measurement System on the NASA ER-2 Aircraft. *J. Atmos. Oceanic Technol.*, 7, 525-540.
                  
     - ### Reanalysis Data
                  
-    - - **MERRA-2**: Gelaro, R., et al. (2017). The Modern-Era Retrospective Analysis for Research and Applications, Version 2 (MERRA-2). *J. Climate*, 30, 5419-5454. https://doi.org/10.1175/JCLI-D-16-0758.1
+    - **MERRA-2**: Gelaro, R., et al. (2017). The Modern-Era Retrospective Analysis for Research and Applications, Version 2 (MERRA-2). *J. Climate*, 30, 5419-5454. https://doi.org/10.1175/JCLI-D-16-0758.1
                    
 - ## ATom Campaign Details
                    
