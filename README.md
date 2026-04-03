@@ -10,9 +10,9 @@ This interactive tool displays vertical profiles of molecular chlorine (Cl2) and
 
 - **Green**: Cl2 > 2 pptv 
 - **Red**: Cl2 <= 2 pptv 
-  - **Gray**: -- background/below detection limit 0.6 ppt (3 sigma) 
+- **Blue**: |lat| > 50
    
-    - Clicking a marker shows the full vertical profile with Cl2, H2O, RH, potential temperature, and other trace gases.
+Clicking a marker shows the full vertical profile with Cl2, H2O, RH, potential temperature, and other trace gases.
    
     ## Scientific Context
    
