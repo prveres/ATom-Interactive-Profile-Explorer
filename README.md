@@ -26,35 +26,35 @@ This interactive tool displays vertical profiles of molecular chlorine (Cl2) and
    
     - - **ATom Merge Files (v2)**: Wofsy, S. C., et al. (2021). ATom: Merged Atmospheric Chemistry, Trace Gases, and Aerosols, Version 2. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1925
      
-      - - **ATom Mission Overview**: Thompson, C. R., et al. (2022). The NASA Atmospheric Tomography (ATom) Mission: Imaging the Chemistry of the Global Atmosphere. *Bull. Amer. Meteor. Soc.*, 103(3), E761-E790. https://doi.org/10.1175/BAMS-D-20-0315.1
+    - - **ATom Mission Overview**: Thompson, C. R., et al. (2022). The NASA Atmospheric Tomography (ATom) Mission: Imaging the Chemistry of the Global Atmosphere. *Bull. Amer. Meteor. Soc.*, 103(3), E761-E790. https://doi.org/10.1175/BAMS-D-20-0315.1
        
-        - ### Instrument Data
+    - ### Instrument Data
        
-        - - **Cl2 and BrCl (NOAA I-CIMS)**: Robinson, M. A., et al. (2022). An iodide-adduct chemical ionization mass spectrometer for the detection of atmospheric trace gases. *Atmos. Meas. Tech.*, 15, 4295-4313. https://doi.org/10.5194/amt-15-4295-2022
+    - - **Cl2 and BrCl (NOAA I-CIMS)**: Robinson, M. A., et al. (2022). An iodide-adduct chemical ionization mass spectrometer for the detection of atmospheric trace gases. *Atmos. Meas. Tech.*, 15, 4295-4313. https://doi.org/10.5194/amt-15-4295-2022
          
-          - - **H2O / RH (DLH)**: Diskin, G. S., et al. (2002). Open-path airborne tunable diode laser hygrometer. *Diode Lasers and Applications in Atmospheric Sensing*, SPIE Proc., 4817, 196-204.
+    - - **H2O / RH (DLH)**: Diskin, G. S., et al. (2002). Open-path airborne tunable diode laser hygrometer. *Diode Lasers and Applications in Atmospheric Sensing*, SPIE Proc., 4817, 196-204.
            
-            - - **Aerosol Composition (AMS)**: Schill, G. P., et al. (2020). Widespread biomass burning smoke throughout the remote troposphere. *Nat. Geosci.*, 13, 422-427. https://doi.org/10.1038/s41561-020-0586-1
+    - - **Aerosol Composition (AMS)**: Schill, G. P., et al. (2020). Widespread biomass burning smoke throughout the remote troposphere. *Nat. Geosci.*, 13, 422-427. https://doi.org/10.1038/s41561-020-0586-1
              
-              - - **Single-Particle Composition (PALMS)**: Froyd, K. D., et al. (2019). A new method to quantify mineral dust and other aerosol species from aircraft platforms using single-particle mass spectrometry. *Atmos. Meas. Tech.*, 12, 6209-6239. https://doi.org/10.5194/amt-12-6209-2019
+    - - **Single-Particle Composition (PALMS)**: Froyd, K. D., et al. (2019). A new method to quantify mineral dust and other aerosol species from aircraft platforms using single-particle mass spectrometry. *Atmos. Meas. Tech.*, 12, 6209-6239. https://doi.org/10.5194/amt-12-6209-2019
                
-                - - **Meteorological Data (MMS)**: Scott, S. G., et al. (1990). The Meteorological Measurement System on the NASA ER-2 Aircraft. *J. Atmos. Oceanic Technol.*, 7, 525-540.
+    - - **Meteorological Data (MMS)**: Scott, S. G., et al. (1990). The Meteorological Measurement System on the NASA ER-2 Aircraft. *J. Atmos. Oceanic Technol.*, 7, 525-540.
                  
-                  - ### Reanalysis Data
+    - ### Reanalysis Data
                  
-                  - - **MERRA-2**: Gelaro, R., et al. (2017). The Modern-Era Retrospective Analysis for Research and Applications, Version 2 (MERRA-2). *J. Climate*, 30, 5419-5454. https://doi.org/10.1175/JCLI-D-16-0758.1
+    - - **MERRA-2**: Gelaro, R., et al. (2017). The Modern-Era Retrospective Analysis for Research and Applications, Version 2 (MERRA-2). *J. Climate*, 30, 5419-5454. https://doi.org/10.1175/JCLI-D-16-0758.1
                    
-                    - ## ATom Campaign Details
+    - ## ATom Campaign Details
                    
-                    - | Campaign | Dates | Season |
-                    - |----------|-------|--------|
-                    - | ATom-3 | Sep 28 - Oct 27, 2017 | NH Autumn |
-                    - | ATom-4 | Apr 24 - May 21, 2018 | NH Spring |
+    - | Campaign | Dates | Season |
+    - |----------|-------|--------|
+    - | ATom-3 | Sep 28 - Oct 27, 2017 | NH Autumn |
+    - | ATom-4 | Apr 24 - May 21, 2018 | NH Spring |
                    
-                    - Flight routes: pole-to-pole transects over the Pacific and Atlantic oceans on the NASA DC-8 aircraft.
+    - Flight routes: pole-to-pole transects over the Pacific and Atlantic oceans on the NASA DC-8 aircraft.
                    
-                    - ## Contact
+    - ## Contact
                    
-                    - Patrick R. Veres -- NSF NCAR Research Aviation Facility --
-                    - https://www.airborne-science.com
-                    - pveres@ucar.edu
+    - Patrick R. Veres -- NSF NCAR Research Aviation Facility --
+    - https://www.airborne-science.com
+    - pveres@ucar.edu
