@@ -44,17 +44,17 @@ This interactive tool displays vertical profiles of molecular chlorine (Cl2) and
                  
     - - **MERRA-2**: Gelaro, R., et al. (2017). The Modern-Era Retrospective Analysis for Research and Applications, Version 2 (MERRA-2). *J. Climate*, 30, 5419-5454. https://doi.org/10.1175/JCLI-D-16-0758.1
                    
-    - ## ATom Campaign Details
+- ## ATom Campaign Details
                    
-    - | Campaign | Dates | Season |
-    - |----------|-------|--------|
-    - | ATom-3 | Sep 28 - Oct 27, 2017 | NH Autumn |
-    - | ATom-4 | Apr 24 - May 21, 2018 | NH Spring |
+- | Campaign | Dates | Season |
+- |----------|-------|--------|
+- | ATom-3 | Sep 28 - Oct 27, 2017 | NH Autumn |
+- | ATom-4 | Apr 24 - May 21, 2018 | NH Spring |
                    
-    - Flight routes: pole-to-pole transects over the Pacific and Atlantic oceans on the NASA DC-8 aircraft.
+- Flight routes: pole-to-pole transects over the Pacific and Atlantic oceans on the NASA DC-8 aircraft.
                    
-    - ## Contact
+- ## Contact
                    
-    - Patrick R. Veres -- NSF NCAR Research Aviation Facility --
-    - https://www.airborne-science.com
-    - pveres@ucar.edu
+- Patrick R. Veres -- NSF NCAR Research Aviation Facility --
+- https://www.airborne-science.com
+- pveres@ucar.edu
